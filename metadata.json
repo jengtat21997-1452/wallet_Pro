@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker with Gemini AI",
+  "description": "A smart expense and income tracker integrated with Google Sheets, daily budget notifications, 12-month analytics, and automatic categorization and insights powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
